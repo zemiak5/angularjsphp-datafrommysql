@@ -7,7 +7,7 @@
     <title>AngularJS+PHP MySQL to Table</title>
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script> <!-- jQuery to support Bootstrap 4 -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.7.5/angular.min.js"></script> <!-- angularJS minified file from extern source --> 
-    <script src="js/a-controllers.js"></script> <!-- import js file which contains AngularJS code and controller -->
+    <script src="a-controllers.js"></script> <!-- import js file which contains AngularJS code and controller -->
     <!-- import Bootstrap 4 file which contains CSS code -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 </head>
