@@ -1,5 +1,5 @@
 <?php
-include("../php/mysqlconnection.php"); /*include file which contains details for connection to database */
+include("http://www.tomdev.eu/mysqlconnection.php"); /*include file which contains details for connection to database */
 ?>
 <?php
     $postdata = file_get_contents("php://input"); /* MUST BE ALWAYS SAME. To get JSON request from AngularJS via http */
