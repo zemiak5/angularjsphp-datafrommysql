@@ -1,5 +1,7 @@
 # angularjsphp-datafrommysql
 AngularJS and PHP get data from MySQL database using JSON
+<br>
+<a target="_blank" href="www.tomdev.eu/tutorials/angularjsphp-datafrommysql-master/">DEMO</a>
 <h1>How to get data from table in MySQL database to table in HTML format</h1>
 <h2>AngularJS + PHP + MySQL</h2>
 <hr>
