@@ -5,7 +5,7 @@ app.controller('mainController', ['$scope', '$http', function($scope, $http) {
     var config = { /* declare http request configuration. Must be */
         method: 'POST',
         /* method data are sent */
-        url: 'server-pages/process.php',
+        url: 'process.php',
         /*path and filename to PHP file which will process request and return data as JSON String */
         data: {
             'menotabulecky': 'kategorie' /* requested table name */
